@@ -1,0 +1,6 @@
+# ignoring intermediate & binary files
+*.o
+*.exe
+
+#ignoring video tutorials folder
+8.tutorials/
